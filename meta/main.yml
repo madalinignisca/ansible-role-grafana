@@ -3,7 +3,7 @@ galaxy_info:
   author: Madalin Ignisca 
   description: Install, configure and manage a Grafana installation
   license: BSD-3-Clause
-  min_ansible_version: 2.14
+  min_ansible_version: "2.14"
   platforms:
   - name: Debian
     versions:
